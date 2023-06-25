@@ -1,23 +1,19 @@
 body {
     background-color: #f5f5dd;
 }
-#kwadrat_1 {
+.kwadrat {
     height: 150px;
     width: 150px;
+}
+#kwadrat_1 {
     background-color: rgba(0, 0, 0, 1.0);
 }
 #kwadrat_2 {
-    height: 150px;
-    width: 150px;
-    background-color: rgba(0, 0, 0, 0.8);
+     background-color: rgba(0, 0, 0, 0.8);
 }
 #kwadrat_3 {
-    height: 150px;
-    width: 150px;
-    background-color: rgba(0, 0, 0, 0.6);
+       background-color: rgba(0, 0, 0, 0.6);
 }
 #kwadrat_4 {
-    height: 150px;
-    width: 150px;
     background-color: rgba(0, 0, 0, 0.4);
 }
